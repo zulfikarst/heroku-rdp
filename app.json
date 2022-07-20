@@ -8,13 +8,7 @@
         "Docker",
         "noVNC"
     ],
-    "env": {
+    "env": {},
     
-  "env": {
-    "GIT_REPO": {
-      "description": "URL of a git repo to clone (optional)",
-      "required": false
-    },
-    }
     "stack": "container"
 }
